@@ -1,4 +1,4 @@
-    while True:
+while True:
         print("menüü:")
         print("1 - teisenda väiketähtedeks")
         print("2 - teisenda suurtähtedeks")
